@@ -1,0 +1,13 @@
+<auths>
+	<auth>
+		<contract>123456789</contract>
+		<firstName>Brandon</firstName>
+		<lastName>Cate</lastName>
+		<diagnoses>
+			<diagnosis>
+				<diagCode>12</diagCode>
+				<diagDate>1967-10-22T00:00.00</diagDate>
+			</diagnosis>
+		</diagnoses>
+	</auth>
+</auths>
